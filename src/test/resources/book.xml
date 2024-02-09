@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<Book id="1" isbn="ABOGET567908" parution_date="1995-12-19" categorie="DRAME" quantity="2" />
+	<Book id="2" isbn="AGRFDSVC789K" parution_date="1998-10-08" categorie="SEXE" quantity="1"/>
+	<Book id="3" isbn="DUFESQVC206K" parution_date="2001-05-20" categorie="PHILO" quantity="5"/>
+	<Book id="4" isbn="4589DGRTESJK" parution_date="2005-11-18" categorie="SCIENCE-FICTION" quantity="10"/>
+</dataset>

@@ -1,0 +1,6 @@
+<dataset>
+    <Adherent id="1" lastname="PHILIPPE" firstname="EDOUARD" age="45"/>
+    <Adherent id="2" lastname="MACRON" firstname="EMMANUEL" age="42"/>
+    <Adherent id="3" lastname="NICOLAS" firstname="SARKOZY" age="64"/>
+    <Adherent id="4" lastname="RICHARD" firstname="FERRAND" age="59"/>
+</dataset>
